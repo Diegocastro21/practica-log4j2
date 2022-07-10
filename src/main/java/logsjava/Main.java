@@ -16,6 +16,7 @@ public class Main {
         logJava.fatal("LOG FATAL");
 
 
+
         /*
         * DEBUG : Usado para escribir mensajes de depuracion
         * INFO : Mensajes de estilo verbose. Puramente informativos de determinada accion
